@@ -14,6 +14,6 @@ hello Git!
 hello Git!
 hello Git!
 hello Git!
-hello Git!
-first correction
+hello Git!  master test
+first correction 
 hot-fix first correction
